@@ -14,30 +14,6 @@ Time Series Forecasting: Forecasting demand using tools like Prophet, Darts, and
 
 Anomaly Detection: Identifying outliers with libraries like PyOD and ADTK.
 
-🗂️ Repository Structure
-Copy
-Edit
-Supply-Chain-Analysis-Python/
-├── Export_Clustering_Scikit_learn.ipynb
-├── Export_EDA.ipynb
-├── Export_EDA_Pygal.ipynb
-├── Export_Regression_Pycaret.ipynb
-├── Export_Regression_Pytorch.ipynb
-├── Export_Regression_Scikit_learn.ipynb
-├── Export_Time_Series_Anomaly_Detection_Adtk.ipynb
-├── Export_Time_Series_Anomaly_Detection_PyOd.ipynb
-├── Export_Time_Series_Forecasting_Darts.ipynb
-├── Export_Time_Series_Forecasting_Prophet.ipynb
-├── Export_Time_Series_Forecasting_Pycaret.ipynb
-├── Export_Time_Series_Forecasting_Pytorch.ipynb
-├── Export_Time_Series_Forecasting_SKTIME.ipynb
-├── Export_Time_Series_Forecasting_Scikit_learn.ipynb
-├── Export_Time_Series_Forecasting_VAR.ipynb
-├── Export_regression_Xgboost.ipynb
-├── Train_delays_Classification_CatBoost.ipynb
-├── Train_delays_Classification_LightGBM.ipynb
-├── Train_delays_Classification_Scikit_learn.ipynb
-└── Train_delays_Classification_Xgboost.ipynb
 🧰 Tools & Libraries Used
 Data Manipulation: pandas, numpy
 
